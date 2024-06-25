@@ -144,6 +144,21 @@ or basic biological research.
     * [Retrieval-augmented Generation](11b_fine_tuning)
     * [Fine-tuning](11c_rag)
 
+* [Image generation, manipulation and vision models](12_Vision_models) (June 18th 2024)
+  * Image Generation with Dall-E and Huggingface
+  * Vision models GPT-4-Omni and LLava
+  * Exercises
+    * [Image generation](12a_image_generation)
+    * [Image manipulation](12b_image_manipulation)
+    * [Vision models](12c_vision)
+
+* [Benchmarking LLMs](13_quality_assurance.pdf) (June 25th 2024)
+  * Exercises
+    * [CLIP scores](13_benchmarking_llms/10_CLIP_scores.ipynb)
+    * [Counting using Vision models](13_benchmarking_llms/20_vision_models.ipynb)
+    * [Code executability](13_benchmarking_llms/30_measuring_executability.ipynb)
+    * [Common errors in generated code](13_benchmarking_llms/40_summarize_error_messages.ipynb)
+
 ## Planned contents
 * Image Data Management
 * Microscopy image analysis (filtering, segmentation, feature extraction)
